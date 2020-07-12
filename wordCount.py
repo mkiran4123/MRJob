@@ -1,8 +1,6 @@
 
 from mrjob.job import MRJob
 from mrjob.step import MRStep
-from google.cloud import storage
-from google.cloud import logging
 import time
 import re
 
